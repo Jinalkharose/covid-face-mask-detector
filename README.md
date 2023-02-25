@@ -7,12 +7,12 @@ Dataset Used: https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-de
 ## Requirements:
 To run this project, the following libraries and frameworks are required:
 
-### Python 3.6 or above
-### TensorFlow 2.3 or above
-### OpenCV
-### NumPy
-### Matplotlib
-### sklearn 
+##### Python 3.6 or above
+##### TensorFlow 2.3 or above
+##### OpenCV
+##### NumPy
+##### Matplotlib
+##### sklearn 
 
 ## Installation:
 The required libraries and frameworks can be installed using pip. Run the following command in the terminal:
