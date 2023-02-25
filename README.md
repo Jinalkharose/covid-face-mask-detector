@@ -19,5 +19,4 @@ The required libraries and frameworks can be installed using pip. Run the follow
 ##### pip install tensorflow opencv-python numpy matplotlib
 
 ## Output:
-The output of the face mask detection system will be an image or video with bounding boxes around the faces detected, indicating whether or not a mask is being worn. The bounding box will be green if a mask is detected, and red if no mask is detected. The confidence score for mask detection will also be displayed in the top-left corner of the bounding box.
-
+The output of the face mask detection system will be an image or video with bounding boxes around the faces detected, indicating whether or not a mask is being worn. The bounding box will be green if a mask is detected, and red if no mask is detected.
